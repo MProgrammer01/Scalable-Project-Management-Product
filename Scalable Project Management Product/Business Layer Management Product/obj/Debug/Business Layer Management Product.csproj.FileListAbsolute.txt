@@ -1,0 +1,45 @@
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\Business Layer Management Product\bin\Debug\Business Layer Management Product.dll
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\Business Layer Management Product\bin\Debug\Business Layer Management Product.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\Business Layer Management Product\bin\Debug\Data Layer Product Management.dll
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\Business Layer Management Product\bin\Debug\Data Layer Product Management.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.AssemblyReference.cache
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.CoreCompileInputs.cache
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\Business Layer Management Product\obj\Debug\Business.EA7F8C39.Up2Date
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\Business Layer Management Product\obj\Debug\Business Layer Management Product.dll
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\Business Layer Management Product\obj\Debug\Business Layer Management Product.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.AssemblyReference.cache
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.CoreCompileInputs.cache
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.dll
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Business Layer Management Product.dll
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Business Layer Management Product.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Data Layer Product Management.dll
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Data Layer Product Management.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business.EA7F8C39.Up2Date
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Business Layer Management Product.dll
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Business Layer Management Product.pdb
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Data Layer Product Management.dll
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Data Layer Product Management.pdb
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.AssemblyReference.cache
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.CoreCompileInputs.cache
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business.EA7F8C39.Up2Date
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.dll
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Business Layer Management Product.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Business Layer Management Product.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Data Layer Product Management.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\bin\Debug\Data Layer Product Management.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business.EA7F8C39.Up2Date
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product1\Business Layer Management Product\obj\Debug\Business Layer Management Product.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Business Layer Management Product\bin\Debug\Business Layer Management Product.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Business Layer Management Product\bin\Debug\Business Layer Management Product.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Business Layer Management Product\bin\Debug\Data Layer Product Management.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Business Layer Management Product\bin\Debug\Data Layer Product Management.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Business Layer Management Product\obj\Debug\Business Layer Management Product.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Business Layer Management Product\obj\Debug\Business.EA7F8C39.Up2Date
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Business Layer Management Product\obj\Debug\Business Layer Management Product.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Business Layer Management Product\obj\Debug\Business Layer Management Product.pdb

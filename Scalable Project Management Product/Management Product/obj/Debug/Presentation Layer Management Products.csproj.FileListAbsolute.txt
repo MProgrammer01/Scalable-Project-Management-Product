@@ -1,0 +1,176 @@
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Management Product.exe.config
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Management Product.exe
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Management Product.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Business Layer Management Product.dll
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Business Layer Management Product.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presentation Layer Management Products.csproj.AssemblyReference.cache
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Properties.Resources.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presentation Layer Management Products.csproj.GenerateResource.cache
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presentation Layer Management Products.csproj.CoreCompileInputs.cache
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presenta.AE4322CD.Up2Date
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management Product.exe
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management Product.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmMainDashboard.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmManageUsers.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Data Layer Product Management.dll
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Data Layer Product Management.pdb
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Users.ctrlAddOrEditUser.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmAddOrEditUser.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Users.ctrlShowInformationUser.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmShowUserInfo.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Product.ctrlAddOrEditProduct.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmManageProducts.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmAddOrUpdateProduct.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Product.ctrlShowInformationProduct.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmShowInformationProduct.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Command.frmManageCommands.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Commands.ctrlShowProductsOfUser.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Command.frmShowProductsOfUser.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlShowInformationDeliveryPerson.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmShowInformationDeliveryPerson.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlDeliveryPerson.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmDeliveryPerson.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlAddOrEditDeliveryPerson.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmAddOrEditDeliveryPerson.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlShowInformationsOfCommand.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmShowInformationsOfCommand.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Login_Employees.ctrlLoginEmployees.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmLoginEmployees.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Commands.ctrlCommands.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Employees.ctrlAddOrEditEmployee.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Employees.ctrlEmployees.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Payment.ctrlPayments.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Product.ctrlProducts.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Users.ctrlUsers.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmManageEmployees.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Payment.frmManagePayment.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmAddOrEditEmployees.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Employees.ctrlShowEmployeeInfo.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmShowEmployeeInfo.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Employees.ctrlShowAccountsLoginOfEmployee.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmShowAccountsOfEmployees.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Employees.ctrlUpdatePassword.resources
+D:\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmUpdatePassword.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Management Product.exe.config
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Management Product.exe
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Management Product.pdb
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Business Layer Management Product.dll
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Data Layer Product Management.dll
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Business Layer Management Product.pdb
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Data Layer Product Management.pdb
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presentation Layer Management Products.csproj.AssemblyReference.cache
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Commands.ctrlShowProductsOfUser.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlShowInformationDeliveryPerson.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlShowInformationsOfCommand.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Employees.ctrlShowEmployeeInfo.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Product.ctrlAddOrEditProduct.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Product.ctrlShowInformationProduct.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Users.ctrlShowInformationUser.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Command.frmManageCommands.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Command.frmShowProductsOfUser.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmAddOrEditDeliveryPerson.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmShowInformationsOfCommand.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmShowInformationDeliveryPerson.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmAddOrEditEmployees.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmLoginEmployees.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmManageEmployees.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmShowAccountsOfEmployees.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmShowEmployeeInfo.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmUpdatePassword.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Payment.frmManagePayment.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmAddOrUpdateProduct.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmManageProducts.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmShowInformationProduct.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmAddOrEditUser.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmMainDashboard.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmShowUserInfo.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Properties.Resources.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presentation Layer Management Products.csproj.GenerateResource.cache
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presentation Layer Management Products.csproj.CoreCompileInputs.cache
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presenta.AE4322CD.Up2Date
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management Product.exe
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management Product.pdb
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmManageUsers.resources
+D:\learn_c++ #\learn_c++ #\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmManageDeliveryPerson.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Management Product.exe.config
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Management Product.exe
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Management Product.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Business Layer Management Product.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Data Layer Product Management.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Business Layer Management Product.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\bin\Debug\Data Layer Product Management.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presentation Layer Management Products.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Commands.ctrlShowProductsOfUser.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlShowInformationDeliveryPerson.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlShowInformationsOfCommand.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Employees.ctrlShowEmployeeInfo.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Product.ctrlAddOrEditProduct.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Product.ctrlShowInformationProduct.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.CTRL_Users.ctrlShowInformationUser.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Command.frmManageCommands.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Command.frmShowProductsOfUser.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmAddOrEditDeliveryPerson.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmManageDeliveryPerson.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmShowInformationsOfCommand.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmShowInformationDeliveryPerson.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmAddOrEditEmployees.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmLoginEmployees.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmManageEmployees.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmShowAccountsOfEmployees.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmShowEmployeeInfo.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Employee.frmUpdatePassword.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Payment.frmManagePayment.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmAddOrUpdateProduct.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmManageUsers.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmManageProducts.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Forms_Product.frmShowInformationProduct.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmAddOrEditUser.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmMainDashboard.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.frmShowUserInfo.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management_Product.Properties.Resources.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presentation Layer Management Products.csproj.GenerateResource.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presentation Layer Management Products.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Presenta.AE4322CD.Up2Date
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management Product.exe
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\Management Product\obj\Debug\Management Product.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\bin\Debug\Management Product.exe.config
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\bin\Debug\Management Product.exe
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\bin\Debug\Management Product.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\bin\Debug\Business Layer Management Product.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\bin\Debug\Data Layer Product Management.dll
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\bin\Debug\Business Layer Management Product.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\bin\Debug\Data Layer Product Management.pdb
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Presentation Layer Management Products.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.CTRL_Commands.ctrlShowProductsOfUser.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlShowInformationDeliveryPerson.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.CTRL_Delevry_Person.ctrlShowInformationsOfCommand.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.CTRL_Employees.ctrlShowEmployeeInfo.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.CTRL_Product.ctrlAddOrEditProduct.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.CTRL_Product.ctrlShowInformationProduct.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.CTRL_Users.ctrlShowInformationUser.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Command.frmManageCommands.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Command.frmShowProductsOfUser.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmAddOrEditDeliveryPerson.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmManageDeliveryPerson.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmShowInformationsOfCommand.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Delivery_Person.frmShowInformationDeliveryPerson.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Employee.frmAddOrEditEmployees.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Employee.frmLoginEmployees.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Employee.frmManageEmployees.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Employee.frmShowAccountsOfEmployees.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Employee.frmShowEmployeeInfo.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Employee.frmUpdatePassword.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Payment.frmManagePayment.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Product.frmAddOrUpdateProduct.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Product.frmManageUsers.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Product.frmManageProducts.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Forms_Product.frmShowInformationProduct.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.frmAddOrEditUser.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.frmMainDashboard.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.frmShowUserInfo.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management_Product.Properties.Resources.resources
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Presentation Layer Management Products.csproj.GenerateResource.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Presentation Layer Management Products.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Presenta.AE4322CD.Up2Date
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management Product.exe
+D:\learn_c++\learn_c++\C# & Database Connectivity\Practice in C# & Database Connectivity\scalable Project Management Product\Management Product\obj\Debug\Management Product.pdb

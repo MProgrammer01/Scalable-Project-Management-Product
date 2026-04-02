@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7DB9361D-FA5B-4E53-9736-C178835E7BA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Management_Product</RootNamespace>
+    <AssemblyName>Management Product</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commands\Contols\ctrlShowProductsOfUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Commands\Contols\ctrlShowProductsOfUser.Designer.cs">
+      <DependentUpon>ctrlShowProductsOfUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delevry Persons\Controls\ctrlShowInformationDeliveryPerson.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Delevry Persons\Controls\ctrlShowInformationDeliveryPerson.Designer.cs">
+      <DependentUpon>ctrlShowInformationDeliveryPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delevry Persons\Controls\ctrlShowInformationsOfCommand.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Delevry Persons\Controls\ctrlShowInformationsOfCommand.Designer.cs">
+      <DependentUpon>ctrlShowInformationsOfCommand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\Controls\ctrlShowEmployeeInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Employees\Controls\ctrlShowEmployeeInfo.Designer.cs">
+      <DependentUpon>ctrlShowEmployeeInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\Controls\ctrlAddOrEditProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Products\Controls\ctrlAddOrEditProduct.Designer.cs">
+      <DependentUpon>ctrlAddOrEditProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\ctrlShowInformationProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Products\ctrlShowInformationProduct.Designer.cs">
+      <DependentUpon>ctrlShowInformationProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Controls\ctrlShowInformationUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Controls\ctrlShowInformationUser.Designer.cs">
+      <DependentUpon>ctrlShowInformationUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Commands\frmManageCommands.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commands\frmManageCommands.Designer.cs">
+      <DependentUpon>frmManageCommands.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Commands\frmShowProductsOfUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commands\frmShowProductsOfUser.Designer.cs">
+      <DependentUpon>frmShowProductsOfUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delevry Persons\frmAddOrEditDeliveryPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delevry Persons\frmAddOrEditDeliveryPerson.Designer.cs">
+      <DependentUpon>frmAddOrEditDeliveryPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delevry Persons\frmManageDeliveryPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delevry Persons\frmManageDeliveryPerson.Designer.cs">
+      <DependentUpon>frmManageDeliveryPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delevry Persons\frmShowInformationsOfCommand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delevry Persons\frmShowInformationsOfCommand.Designer.cs">
+      <DependentUpon>frmShowInformationsOfCommand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delevry Persons\frmShowInformationDeliveryPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delevry Persons\frmShowInformationDeliveryPerson.Designer.cs">
+      <DependentUpon>frmShowInformationDeliveryPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmAddOrEditEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmAddOrEditEmployees.Designer.cs">
+      <DependentUpon>frmAddOrEditEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmLoginEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmLoginEmployees.Designer.cs">
+      <DependentUpon>frmLoginEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmManageEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmManageEmployees.Designer.cs">
+      <DependentUpon>frmManageEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmShowAccountsOfEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmShowAccountsOfEmployees.Designer.cs">
+      <DependentUpon>frmShowAccountsOfEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmShowEmployeeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmShowEmployeeInfo.Designer.cs">
+      <DependentUpon>frmShowEmployeeInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employees\frmUpdatePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employees\frmUpdatePassword.Designer.cs">
+      <DependentUpon>frmUpdatePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\frmManagePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments\frmManagePayment.Designer.cs">
+      <DependentUpon>frmManagePayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\frmAddOrUpdateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\frmAddOrUpdateProduct.Designer.cs">
+      <DependentUpon>frmAddOrUpdateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmManageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmManageUsers.Designer.cs">
+      <DependentUpon>frmManageUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\frmManageProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\frmManageProducts.Designer.cs">
+      <DependentUpon>frmManageProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\frmShowInformationProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\frmShowInformationProduct.Designer.cs">
+      <DependentUpon>frmShowInformationProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmAddOrEditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmAddOrEditUser.Designer.cs">
+      <DependentUpon>frmAddOrEditUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainDashboard.Designer.cs">
+      <DependentUpon>frmMainDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmShowUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmShowUserInfo.Designer.cs">
+      <DependentUpon>frmShowUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global\clsForSavingEmployeeDataLoginInFile.cs" />
+    <Compile Include="Global\clsUtils.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Commands\Contols\ctrlShowProductsOfUser.resx">
+      <DependentUpon>ctrlShowProductsOfUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delevry Persons\Controls\ctrlShowInformationDeliveryPerson.resx">
+      <DependentUpon>ctrlShowInformationDeliveryPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delevry Persons\Controls\ctrlShowInformationsOfCommand.resx">
+      <DependentUpon>ctrlShowInformationsOfCommand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\Controls\ctrlShowEmployeeInfo.resx">
+      <DependentUpon>ctrlShowEmployeeInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\Controls\ctrlAddOrEditProduct.resx">
+      <DependentUpon>ctrlAddOrEditProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\ctrlShowInformationProduct.resx">
+      <DependentUpon>ctrlShowInformationProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Controls\ctrlShowInformationUser.resx">
+      <DependentUpon>ctrlShowInformationUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commands\frmManageCommands.resx">
+      <DependentUpon>frmManageCommands.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commands\frmShowProductsOfUser.resx">
+      <DependentUpon>frmShowProductsOfUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delevry Persons\frmAddOrEditDeliveryPerson.resx">
+      <DependentUpon>frmAddOrEditDeliveryPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delevry Persons\frmManageDeliveryPerson.resx">
+      <DependentUpon>frmManageDeliveryPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delevry Persons\frmShowInformationsOfCommand.resx">
+      <DependentUpon>frmShowInformationsOfCommand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delevry Persons\frmShowInformationDeliveryPerson.resx">
+      <DependentUpon>frmShowInformationDeliveryPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmAddOrEditEmployees.resx">
+      <DependentUpon>frmAddOrEditEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmLoginEmployees.resx">
+      <DependentUpon>frmLoginEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmManageEmployees.resx">
+      <DependentUpon>frmManageEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmShowAccountsOfEmployees.resx">
+      <DependentUpon>frmShowAccountsOfEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmShowEmployeeInfo.resx">
+      <DependentUpon>frmShowEmployeeInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employees\frmUpdatePassword.resx">
+      <DependentUpon>frmUpdatePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\frmManagePayment.resx">
+      <DependentUpon>frmManagePayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\frmAddOrUpdateProduct.resx">
+      <DependentUpon>frmAddOrUpdateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmManageUsers.resx">
+      <DependentUpon>frmManageUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\frmManageProducts.resx">
+      <DependentUpon>frmManageProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\frmShowInformationProduct.resx">
+      <DependentUpon>frmShowInformationProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmAddOrEditUser.resx">
+      <DependentUpon>frmAddOrEditUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainDashboard.resx">
+      <DependentUpon>frmMainDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmShowUserInfo.resx">
+      <DependentUpon>frmShowUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hid password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business Layer Management Product\Business Layer Management Product.csproj">
+      <Project>{d05daed8-cb6f-46de-9ae0-073286fe9607}</Project>
+      <Name>Business Layer Management Product</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
